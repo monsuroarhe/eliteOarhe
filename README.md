@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<html>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -6,8 +7,8 @@
     <title>count the number of users</title>
 </head>
 <body id="body">
- <h1>ESSIONATAS' perfumery</h1>
-<p>E dey cleanse Yama Yama for body</p>
+ <h1>Monsur Oarhe</h1>
+<p>hey I'm Monsur Oarhe... Thanks for viewing my site. Namaste</p>
 
 </body>
 </html>
