@@ -125,7 +125,7 @@ count = 0
 }
 // a comment
     </script>
- <h1>Monsur Oarhe</h1>
-<p>hey I'm Monsur Oarhe... Thanks for viewing my site. Namaste</p>
+ <h1>Counter App</h1>
+<p>hey.. this is my counter web application with html, css and js. Now off you go</p>
 </body>
 </html>
