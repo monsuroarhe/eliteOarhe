@@ -54,7 +54,8 @@ div > h1 {
 
 @media screen and (max-width: 600px) {
   body {
-    background-image: url(failed.png);
+    background-color: #2c2c2c;
+    color:white;
     background-size: cover;
   }
   body div {
@@ -67,7 +68,7 @@ div > h1 {
     height: 70px;
     margin-top: 10px;
     display: block;
-    background-color: transparent;
+    background-color: red;
     margin-bottom: 10px;
     font-weight: bolder;
     font-size: 30px;
@@ -79,7 +80,7 @@ div > h1 {
     margin-left: 25%;
     height: 70px;
     border: white;
-    background-color: transparent;
+    background-color: green;
     font-size: 30px;
     font-weight: bolder;
   }
