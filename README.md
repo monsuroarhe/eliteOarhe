@@ -73,6 +73,9 @@ div > h1 {
     border-radius: 5px;
     border: white;
   }
+  .pg{
+    color: black;
+  }
   #btn_2 {
     width: 50%;
     margin-left: 25%;
@@ -125,6 +128,6 @@ count = 0
 // a comment
     </script>
  <h1>Counter App</h1>
-<p style="color:black">hey.. this is my counter web application with html, css and js. Now off you go</p>
+<p class="pg" style="color:black">hey.. this is my counter web application with html, css and js. Now off you go</p>
 </body>
 </html>
