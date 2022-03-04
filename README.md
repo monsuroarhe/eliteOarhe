@@ -54,7 +54,6 @@ div > h1 {
 
 @media screen and (max-width: 600px) {
   body {
-    background-color: #2c2c2c;
     background-size: cover;
   }
   body div {
@@ -126,6 +125,6 @@ count = 0
 // a comment
     </script>
  <h1>Counter App</h1>
-<p>hey.. this is my counter web application with html, css and js. Now off you go</p>
+<p style="color:white;">hey.. this is my counter web application with html, css and js. Now off you go</p>
 </body>
 </html>
