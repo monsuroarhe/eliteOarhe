@@ -55,7 +55,6 @@ div > h1 {
 @media screen and (max-width: 600px) {
   body {
     background-color: #2c2c2c;
-    color:white;
     background-size: cover;
   }
   body div {
