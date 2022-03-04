@@ -120,6 +120,7 @@ let p = paragraph.innerText = "_" + number.innerText + "_"
 number.textContent = "0"
 count = 0
 }
+// a comment
     </script>
 </body>
 </html>
